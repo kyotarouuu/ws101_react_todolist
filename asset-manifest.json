@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ws101_react_todolist/static/css/main.3162092f.css",
+    "main.js": "/ws101_react_todolist/static/js/main.aff4b338.js",
+    "static/js/453.cf2d1603.chunk.js": "/ws101_react_todolist/static/js/453.cf2d1603.chunk.js",
+    "static/media/mountains.jpg": "/ws101_react_todolist/static/media/mountains.3e2bbc75b7b4cbf0c7eb.jpg",
+    "static/media/form-bg.jpg": "/ws101_react_todolist/static/media/form-bg.8abf581e327b7605cb11.jpg",
+    "index.html": "/ws101_react_todolist/index.html",
+    "main.3162092f.css.map": "/ws101_react_todolist/static/css/main.3162092f.css.map",
+    "main.aff4b338.js.map": "/ws101_react_todolist/static/js/main.aff4b338.js.map",
+    "453.cf2d1603.chunk.js.map": "/ws101_react_todolist/static/js/453.cf2d1603.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3162092f.css",
+    "static/js/main.aff4b338.js"
+  ]
+}
